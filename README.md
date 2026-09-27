@@ -5,7 +5,7 @@
 | Keterangan | Data |
 |---|---|
 | Nama | Ahmad Fajar Novia |
-| NIM | [2509116041] |
+| NIM | 2509116041 |
 | Mata Kuliah | Pemrograman Berorientasi Objek |
 | Bahasa Pemrograman | Java |
 | IDE | NetBeans |
